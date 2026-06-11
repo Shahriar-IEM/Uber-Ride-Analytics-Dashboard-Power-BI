@@ -13,9 +13,7 @@ An end-to-end interactive business intelligence dashboard built in **Microsoft P
 
 | Main Dashboard | Filter Panel | Revenue Deep Dive |
 |:-:|:-:|:-:|
-| ![Main View](screenshots/dashboard_main.png) | ![Filter Panel](screenshots/filter_panel.png) | ![Revenue View](screenshots/revenue_detail.png) |
-
-> *Replace placeholder paths above with your actual screenshot filenames after uploading.*
+| ![Main View](screenshots/dashboard_main.png) | ![Filter Panel](screenshots/filter_panel.png) | ![Revenue View](screenshots/revenue_detail.jpg) |
 
 ---
 
