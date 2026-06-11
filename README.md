@@ -148,18 +148,4 @@ uber-powerbi-dashboard/
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use it as inspiration for your own portfolio projects.
-
----
-
 > ⭐ If you found this project useful or insightful, feel free to **star** the repository!
